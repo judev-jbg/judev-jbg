@@ -58,13 +58,13 @@
 
 # 📊 GitHub Stats:
 <h5 align="center">
-<a href="https://github.com/judev-jgb">
+<a href="https://github.com/judev-jbg">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judev-jbg&layout=compact&theme=github_dark_dimmed&size_weight=0.5&count_weight=0.5&langs_count=8"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judev-jbg&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
 </a>
 </h5>
 <h5 align="center">
-<a href="https://github.com/judev-jgb">
+<a href="https://github.com/judev-jbg">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=judev-jbg&theme=github-dark-dimmed"/>
 </a>
 </h5>
